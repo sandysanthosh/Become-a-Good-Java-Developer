@@ -68,6 +68,74 @@ jmx with nbeans
 -Apache license
 
 
+core java:
+
+collections
+generics
+multi-thread
+concurrency 
+exception 
+serialization
+io stream
+data strucure
+garbage collectios
+refelction
+synchronization
+
+JDBC,servlets,jsp,ejb
+
+framework:
+spring
+jsf
+structs
+
+desgin pattern:
+webservices: soap/rest
+
+orm framework:
+hiberanate/ibatis
+
+unit testing:
+junit , mockito ,testng
+
+logging framework:
+log4j,sl4j
+
+source control management:
+vss/perfoce/svn/git
+
+build tools:
+ant/maven/gradle
+
+web app:
+webshpere/tomcat
+
+database:
+oracle/mysql
+
+os:
+linux/unix/servvers
+
+ide:
+netbeans
+
+validation:
+javascript,nodejs,angularjs
+
+web design:
+html,css,xhtml,html5
+
+xml techonology:
+xm, parser(dom/sax/path)
+
+json
+
+parse
+
+
+
+
+
 
 
 
